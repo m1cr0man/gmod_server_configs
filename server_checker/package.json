@@ -1,0 +1,22 @@
+{
+  "name": "server_checker",
+  "version": "1.0.0",
+  "description": "SRCDS simple online health checker",
+  "main": "check_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m1cr0man/gmod_server_configs.git"
+  },
+  "author": "m1cr0man",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/m1cr0man/gmod_server_configs/issues"
+  },
+  "homepage": "https://github.com/m1cr0man/gmod_server_configs#readme",
+  "dependencies": {
+    "steam-server-status": "^1.0.2"
+  }
+}
